@@ -2,6 +2,7 @@ name: MCellblock
 favicon: null
 layout_spectrum: 0.7278221880551428
 typography_spectrum: 0.5230848821811378
+title: MCellBlock
 cta:
   domain: null
   bucket: null

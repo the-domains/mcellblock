@@ -1,0 +1,28 @@
+name: MCellblock
+favicon: null
+layout_spectrum: 0.7278221880551428
+typography_spectrum: 0.5230848821811378
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.17557870596647263
+  lightness: 0.6282309007365257
+  saturation: 0.847777629038319
+  rhythmicContrast: 0.34082944109104574
+purpose: []

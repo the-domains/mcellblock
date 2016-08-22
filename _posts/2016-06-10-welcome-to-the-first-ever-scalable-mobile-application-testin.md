@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Welcome to the first ever scalable mobile application testing platform in the
   world!
-datePublished: '2016-08-22T22:47:05.682Z'
-dateModified: '2016-08-22T22:45:00.268Z'
+datePublished: '2016-08-22T22:48:32.524Z'
+dateModified: '2016-08-22T22:47:12.927Z'
 title: ''
 author: []
 sourcePath: >-
@@ -25,6 +25,6 @@ url: welcome-to-the-first-ever-scalable-mobile-application-testin/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc4f2a0f-a59f-40c4-8418-fe487c45c9e0.png)
+MCellBlock ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc4f2a0f-a59f-40c4-8418-fe487c45c9e0.png)
 
 Welcome to the first ever scalable mobile application testing platform in the world!

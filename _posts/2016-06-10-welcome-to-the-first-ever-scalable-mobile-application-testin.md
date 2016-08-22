@@ -7,15 +7,19 @@ keywords: []
 description: >-
   Welcome to the first ever scalable mobile application testing platform in the
   world!
-datePublished: '2016-08-22T22:44:14.926Z'
-dateModified: '2016-08-22T22:44:02.192Z'
+datePublished: '2016-08-22T22:47:05.682Z'
+dateModified: '2016-08-22T22:45:00.268Z'
 title: ''
 author: []
 sourcePath: >-
   _posts/2016-06-10-welcome-to-the-first-ever-scalable-mobile-application-testin.md
-authors: []
-publisher: {}
 via: {}
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: true
 url: welcome-to-the-first-ever-scalable-mobile-application-testin/index.html
 _type: Article

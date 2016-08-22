@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[MCellBlock]]></title>
         <description><![CDATA[MCellBlock]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mcellblock/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 08:44:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Aug 2016 22:44:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mcellblock/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f709943-d31d-48d3-a242-8450782fa630.png">]]></description>
-            <link>undefinedwelcome-to-the-first-ever-scalable-mobile-application-testin/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dc4f2a0f-a59f-40c4-8418-fe487c45c9e0.png">]]></description>
+            <link>https://thegrid.ai/mcellblock/welcome-to-the-first-ever-scalable-mobile-application-testin/index.html</link>
             <guid isPermaLink="false">a7de781f-7dc0-4fc6-8770-41848aa4cf9d</guid>
-            <pubDate>Fri, 10 Jun 2016 08:44:35 GMT</pubDate>
+            <pubDate>Mon, 22 Aug 2016 22:44:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
